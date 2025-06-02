@@ -1,0 +1,86 @@
+{
+    "Normal Tissue": [
+        "A healthy tissue sample indicating normal physiology.",
+        "An H&E stained image showing unaffected, normal tissue.",
+        "Healthy cells consistent with normal tissue function.",
+        "Normal tissue structures with no signs of pathology.",
+        "A photomicrograph of healthy cellular morphology.",
+        "Presence of normal, non-diseased tissue.",
+        "An H&E image highlighting healthy, regular tissue.",
+        "Healthy tissue confirmed by histopathological analysis.",
+        "An image showing normal, non-abnormal tissue.",
+        "A histopathological photograph of normal, benign tissue."
+    ],
+    "Pathological Benign": [
+        "Fibrocystic changes observed in benign breast tissue.",
+        "An H&E stained image of fibrocystic changes.",
+        "Fibrocystic alterations in breast tissue, H&E stain.",
+        "Adenosis identified in benign breast histology, H&E.",
+        "A photomicrograph showing benign fibrocystic changes.",
+        "Benign fibrocystic modifications detected in H&E stained slides.",
+        "An image depicting benign adenosis in breast tissue.",
+        "Histopathological photograph of benign fibrocystic alterations.",
+        "Adenosis and fibrocystic changes in benign breast tissue.",
+        "An H&E stained slide displaying benign fibrocystic changes."
+    ],
+    "Usual Ductal Hyperplasia": [
+        "A histopathological image of duct epithelial hyperplasia.",
+        "An H&E stained image showing benign proliferation of ductal cells.",
+        "Duct epithelial hyperplasia, H&E stain.",
+        "Duct epithelial hyperplasia, H&E.",
+        "An H&E stained image of duct epithelial hyperplasia.",
+        "Benign ductal cell overgrowth observed in hyperplasia.",
+        "A photomicrograph of usual ductal hyperplasia in breast tissue.",
+        "An image showing benign ductal epithelial proliferation, H&E stained.",
+        "Histopathological slide displaying usual ductal hyperplasia without atypia.",
+        "A histological image of benign ductal epithelial hyperplasia, confirmed by H&E."
+    ],
+    "Flat Epithelial Atypia": [
+        "An H&E stained image of flat epithelial atypia.",
+        "An image of flat epithelial atypia.",
+        "Flat epithelial atypia observed in an H&E stained slide.",
+        "A photomicrograph of flat epithelial atypia indicating early changes.",
+        "An H&E stained slide highlighting flat epithelial atypia.",
+        "Flat epithelial atypia in breast tissue, shown under H&E staining.",
+        "A histopathological photograph displaying flat epithelial atypia.",
+        "Flat epithelial atypia with no malignant features, H&E stained.",
+        "An image depicting flat epithelial atypia as a precursor lesion.",
+        "A histological slide of flat epithelial atypia in benign breast tissue."
+    ],
+    "Atypical Ductal Hyperplasia": [
+        "This is ductal intraepithelial neoplasia grade 1.",
+        "Detected during biopsy for other abnormalities.",
+        "Presence of ductal intraepithelial neoplasia grade 1.",
+        "Atypical ductal hyperplasia observed in breast tissue.",
+        "A histopathological photograph of atypical ductal hyperplasia.",
+        "Atypical ductal hyperplasia identified in H&E stained slide.",
+        "An image showing atypical ductal hyperplasia, a high-risk lesion.",
+        "A photomicrograph of atypical ductal hyperplasia indicating increased risk.",
+        "Histological slide depicting atypical ductal hyperplasia, confirmed by H&E.",
+        "A histopathological image of atypical ductal hyperplasia with mild atypia."
+    ],
+    "Ductal Carcinoma In Situ": [
+        "An example of ductal carcinoma in situ.",
+        "An image of ductal carcinoma in situ.",
+        "High-grade DCIS, H&E stain.",
+        "A photomicrograph of ductal carcinoma in situ.",
+        "DCIS observed in H&E stained breast tissue.",
+        "A histopathological photograph showing ductal carcinoma in situ.",
+        "An H&E stained slide depicting ductal carcinoma in situ with comedo necrosis.",
+        "DCIS identified in a histological image of breast tissue.",
+        "A photomicrograph of ductal carcinoma in situ indicating non-invasive cancer.",
+        "An image highlighting ductal carcinoma in situ in breast tissue, requiring treatment."
+    ],
+    "Invasive Carcinoma": [
+        "Metastatic disease observed in H&E stained tissue.",
+        "This is invasive ductal carcinoma.",
+        "This is infiltrating ductal carcinoma.",
+        "An example of invasive ductal carcinoma.",
+        "Invasive ductal carcinoma detected in histopathological image.",
+        "An H&E stained slide showing invasive ductal carcinoma with stromal invasion.",
+        "Invasive ductal carcinoma observed in a histopathological photograph.",
+        "A photomicrograph of invasive ductal carcinoma, indicating metastatic potential.",
+        "An image showing invasive ductal carcinoma with surrounding tissue invasion.",
+        "A histological slide of invasive ductal carcinoma demonstrating invasive growth patterns."
+    ]
+}

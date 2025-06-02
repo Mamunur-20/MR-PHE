@@ -1,0 +1,26 @@
+{
+    "Normal": [
+        "Tissue with intact structural integrity and no evidence of disease.",
+        "Histological section displaying well-organized cellular components without abnormalities.",
+        "Absence of dysplasia or neoplastic transformation in the examined tissue.",
+        "A sample reflecting typical physiological function with no pathological alterations.",
+        "Microscopic evaluation confirms normal cellular architecture and tissue homeostasis.",
+        "Healthy tissue with no signs of inflammation, fibrosis, or malignancy.",
+        "A histopathological image demonstrating unremarkable findings, consistent with normal function.",
+        "Non-pathological tissue maintaining expected morphological and structural characteristics.",
+        "No evidence of cellular atypia, necrosis, or other disease-associated features.",
+        "Findings consistent with normal histological and physiological parameters."
+    ],
+    "Abnormal": [
+        "Histopathological evaluation reveals significant deviations from normal cellular morphology.",
+        "Tissue sample exhibiting dysplastic, pre-malignant, or malignant changes.",
+        "Microscopic features indicate loss of normal architecture, suggesting disease progression.",
+        "Abnormal cellular proliferation with nuclear atypia and disorganized tissue structure.",
+        "Findings consistent with inflammatory, neoplastic, or degenerative pathology.",
+        "A histological slide demonstrating features suggestive of malignant transformation.",
+        "Presence of hyperchromatic nuclei and increased mitotic activity indicating potential malignancy.",
+        "Abnormal tissue exhibiting loss of polarity, pleomorphism, and irregular cellular arrangements.",
+        "Histopathological analysis confirms pathological changes warranting further clinical evaluation.",
+        "A sample displaying hallmark features of dysplasia, carcinoma, or other disease states."
+    ]
+}

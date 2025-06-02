@@ -1,0 +1,26 @@
+{
+    "Benign": [
+        "A benign tissue sample indicating low risk.",
+        "Non-cancerous cells with no immediate concern.",
+        "Healthy tissue showing no signs of malignancy.",
+        "Non-aggressive cells suggesting a favorable prognosis.",
+        "Normal tissue structure with benign features.",
+        "Non-invasive cells associated with minimal treatment.",
+        "Healthy cellular morphology confirming non-malignant status.",
+        "Benign tissue pattern requiring no urgent intervention.",
+        "Non-cancerous cells consistent with normal conditions.",
+        "Healthy tissue area excluding malignant lesions."
+    ],
+    "Malignant": [
+        "A malignant tissue sample requiring prompt treatment.",
+        "Cancerous cells indicating aggressive disease.",
+        "Invasive cells associated with poor prognosis.",
+        "Aggressive tissue structure necessitating immediate intervention.",
+        "Malignant cellular morphology essential for diagnosis.",
+        "Invasive cancer cells critical for staging decisions.",
+        "Cancerous tissue patterns indicating high risk of metastasis.",
+        "Aggressive cells requiring urgent therapeutic action.",
+        "Malignant tissue area consistent with advanced cancer.",
+        "Invasive cancer cells essential for treatment planning."
+    ]
+}

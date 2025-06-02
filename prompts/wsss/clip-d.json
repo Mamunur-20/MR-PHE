@@ -1,0 +1,35 @@
+{
+    "Normal": [
+        "non-tumor",
+        "normal tissue",
+        "non-cancerous tissue",
+        "regular cell structure",
+        "uniformity",
+        "well-defined edges",
+        "minimal variation in size",
+        "non-cancerous",
+        "no abnormal growth"
+    ],
+    "Stroma": [
+        "tumor-associated stroma",
+        "cancer-associated stroma",
+        "tumor-associated stromal tissue",
+        "cancer-associated stromal tissue",
+        "supportive tissue",
+        "connective tissues",
+        "extracellular matrix",
+        "providing structural support",
+        "providing nutrients"
+    ],
+    "Tumor": [
+        "tumor tissue",
+        "tumor epithelial tissue",
+        "cancerous tissue",
+        "abnormal cell growth",
+        "cancerous",
+        "irregular shapes",
+        "poorly defined edges",
+        "invade surrounding tissues",
+        "spread to other parts of the body"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Normal": [
+        "A tissue sample demonstrating healthy cellular architecture.",
+        "An H&E stained slide showing normal physiological features.",
+        "Healthy, non-diseased cells observed under microscopy.",
+        "Unaltered tissue structures indicating no pathology.",
+        "A photomicrograph displaying normal cellular morphology.",
+        "Non-abnormal tissue consistent with healthy function.",
+        "A histological image of healthy, regular tissue.",
+        "Presence of normal, unaffected cellular structures.",
+        "An image highlighting non-pathological, healthy tissue.",
+        "Normal cellular patterns confirmed by histopathological analysis."
+    ],
+    "Abnormal": [
+        "A tissue sample exhibiting pathological changes requiring further analysis.",
+        "An H&E stained slide showing abnormal cellular structures indicative of disease.",
+        "Cancerous cells with atypical morphology observed under microscopy.",
+        "Altered tissue architecture suggesting malignant transformation.",
+        "A photomicrograph displaying abnormal cellular features associated with cancer.",
+        "Pathological tissue consistent with malignant conditions requiring intervention.",
+        "A histological image of diseased, atypical tissue necessitating diagnosis.",
+        "Presence of abnormal, neoplastic cellular structures indicative of malignancy.",
+        "An image highlighting pathological, cancerous tissue requiring treatment planning.",
+        "Malignant cellular patterns confirmed by comprehensive histopathological analysis."
+    ]
+}

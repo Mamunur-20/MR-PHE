@@ -1,0 +1,26 @@
+{
+    "Non invasive": [
+        "Non-cancerous tissue with no immediate concern.",
+        "Healthy epithelial cells indicating normal conditions.",
+        "No signs of invasive cellular behavior.",
+        "Benign or precancerous tissue associated with favorable outcomes.",
+        "Ductal carcinoma in situ confined within ductal structures.",
+        "Non-invasive lesions suggesting a low risk of metastasis.",
+        "Well-organized tissue architecture confirming non-invasiveness.",
+        "Stable tissue structure requiring close monitoring but not urgent intervention.",
+        "Precancerous lesions confined to the ductal or epithelial layer.",
+        "Non-cancerous area consistent with localized histological changes."
+    ],
+    "Invasive": [
+        "Invasive carcinoma capable of spreading to surrounding tissues.",
+        "Aggressive cellular behavior associated with advanced cancer.",
+        "Tissue invasion beyond the ductal or epithelial layer.",
+        "Malignant cells indicating a high risk of metastasis.",
+        "Disruption of normal tissue architecture by invasive growth.",
+        "Invasive carcinoma requiring prompt therapeutic intervention.",
+        "Advanced-stage lesions characterized by cellular irregularity.",
+        "Invasive tissue associated with a poorer prognosis.",
+        "Tumorous growth penetrating into stromal or adjacent areas.",
+        "Invasive carcinoma critical for cancer staging and treatment."
+    ]
+}

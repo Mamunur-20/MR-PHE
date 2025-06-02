@@ -1,0 +1,38 @@
+{
+    "Normal": [
+        "A histopathological photograph of non-malignant tissue.",
+        "non-malignant tissue.",
+        "non-malignant tissue is shown.",
+        "Normal tissue maintains organ function.",
+        "A photomicrograph of non-malignant tissue.",
+        "An image showing non-malignant tissue.",
+        "An image showing benign tissue.",
+        "An example of non-malignant tissue.",
+        "An image of non-malignant tissue.",
+        "Shows non-malignant tissue."
+    ],
+    "Stroma": [
+        "An H&E stained image showing fibrous tissue.",
+        "An example of fibrous tissue.",
+        "An H&E stained image showing connective tissue.",
+        "An H&E stained image of connective tissue.",
+        "connective tissue is present.",
+        "There is fibrous tissue.",
+        "This is fibrous tissue.",
+        "A histopathological photograph showing connective tissue.",
+        "Shows fibrous tissue.",
+        "An image of fibrous tissue."
+    ],
+    "Tumor": [
+        "malignant cells, H&E.",
+        "An H&E image showing malignant cells.",
+        "malignant cells, H&E stain.",
+        "This is malignant cells.",
+        "An H&E stained image showing malignant cells.",
+        "There is malignant cells.",
+        "malignant epithelium, H&E.",
+        "An H&E stained image of tumor.",
+        "This is malignant epithelium.",
+        "A photomicrograph showing adenocarcinoma."
+    ]
+}

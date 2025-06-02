@@ -1,0 +1,8 @@
+{
+    "Normal": [
+        "A histopathological image of benign."
+    ],
+    "Abnormal": [
+        "A histopathological image of malignant."
+    ]
+}

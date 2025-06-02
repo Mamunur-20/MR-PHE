@@ -1,0 +1,38 @@
+{
+    "Normal": [
+        "A healthy tissue sample indicating normal physiology.",
+        "An H&E stained image showing unaffected, normal tissue.",
+        "Healthy cells consistent with normal tissue function.",
+        "Normal tissue structures with no signs of pathology.",
+        "A photomicrograph of healthy cellular morphology.",
+        "Presence of normal, non-diseased tissue.",
+        "An H&E image highlighting healthy, regular tissue.",
+        "Healthy tissue confirmed by histopathological analysis.",
+        "An image showing normal, non-abnormal tissue.",
+        "A histopathological photograph of normal, benign tissue."
+    ],
+    "Stroma": [
+        "Connective stromal tissue providing structural support.",
+        "An H&E stained image displaying fibrous stromal structures.",
+        "Stromal cells contributing to the tumor microenvironment.",
+        "An image showing fibrous, connective stromal tissue.",
+        "Presence of stromal tissue essential for tissue integrity.",
+        "A photomicrograph of stromal cells in the connective matrix.",
+        "Stromal structures observed in the tissue sample.",
+        "An H&E image highlighting fibrous stromal components.",
+        "Stromal tissue confirmed by histopathological analysis.",
+        "An image depicting connective, fibrous stromal tissue."
+    ],
+    "Tumor": [
+        "A malignant tumor sample requiring prompt treatment.",
+        "An H&E stained image showing aggressive cancerous tissue.",
+        "Invasive tumor cells indicative of advanced carcinoma.",
+        "A photomicrograph of malignant, neoplastic tumor cells.",
+        "Presence of aggressive tumor structures requiring intervention.",
+        "An H&E image highlighting cancerous, invasive tissue.",
+        "Malignant cells observed in the tumor microenvironment.",
+        "A histopathological photograph of aggressive tumor tissue.",
+        "Tumor cells indicating the need for therapeutic action.",
+        "An image showing malignant, cancerous tumor structures."
+    ]
+}

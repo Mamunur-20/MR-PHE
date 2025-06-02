@@ -1,0 +1,58 @@
+{
+    "Normal Tissue": [
+        "healthy tissue",
+        "non-cancerous",
+        "normal cell structure",
+        "no signs of disease",
+        "regular morphology",
+        "intact cell membranes"
+    ],
+    "Pathological Benign": [
+        "benign lesion",
+        "non-cancerous growth",
+        "regular cellular arrangement",
+        "absence of invasion",
+        "defined margins",
+        "low cellular atypia"
+    ],
+    "Usual Ductal Hyperplasia": [
+        "increased cell layers",
+        "benign proliferation",
+        "ductal expansion",
+        "cellular crowding",
+        "non-atypical cells",
+        "maintained architecture"
+    ],
+    "Flat Epithelial Atypia": [
+        "mild cellular atypia",
+        "flat ductal epithelial cells",
+        "low-grade dysplasia",
+        "altered cell uniformity",
+        "nuclear enlargement",
+        "mild architectural distortion"
+    ],
+    "Atypical Ductal Hyperplasia": [
+        "atypical cells in ducts",
+        "increased cell layers",
+        "moderate dysplasia",
+        "incomplete atypia",
+        "partial ductal involvement",
+        "abnormal cellular arrangement"
+    ],
+    "Ductal Carcinoma In Situ": [
+        "cancer confined to ducts",
+        "malignant epithelial cells",
+        "no invasion beyond ducts",
+        "high-grade cellular atypia",
+        "nuclear pleomorphism",
+        "presence of comedonecrosis"
+    ],
+    "Invasive Carcinoma": [
+        "malignant cells invading stroma",
+        "cancer beyond ductal confines",
+        "irregular tumor margins",
+        "high-grade malignancy",
+        "lymphovascular invasion",
+        "potential for metastasis"
+    ]
+}

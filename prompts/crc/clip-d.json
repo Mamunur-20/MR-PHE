@@ -1,0 +1,74 @@
+{
+    "Adipose": [
+        "fat tissue",
+        "adipocytes",
+        "clear cytoplasm",
+        "normal fat cells",
+        "white adipose tissue",
+        "mature adipocytes"
+    ],
+    "Background": [
+        "non-specific background",
+        "artifact",
+        "non-diagnostic area",
+        "irrelevant tissue",
+        "background noise",
+        "empty space"
+    ],
+    "Debris": [
+        "cellular debris",
+        "necrotic tissue",
+        "fragmented cells",
+        "dead cell remnants",
+        "tissue breakdown",
+        "apoptotic bodies"
+    ],
+    "Lymphocytes": [
+        "small round cells",
+        "immune cells",
+        "inflammatory cells",
+        "dense aggregates",
+        "scant cytoplasm",
+        "reactive lymphocytes"
+    ],
+    "Mucus": [
+        "mucinous material",
+        "extracellular mucin",
+        "mucus pools",
+        "gel-like substance",
+        "goblet cell secretion",
+        "mucin"
+    ],
+    "Smooth muscle": [
+        "spindle-shaped cells",
+        "smooth muscle fibers",
+        "uniform elongated cells",
+        "central nuclei",
+        "smooth muscle layer",
+        "muscularis propria"
+    ],
+    "Normal colon mucosa": [
+        "healthy colon tissue",
+        "non-cancerous epithelium",
+        "intact mucosa",
+        "well-organized glands",
+        "normal cellular architecture",
+        "no signs of dysplasia"
+    ],
+    "Cancer-associated stroma": [
+        "reactive stroma",
+        "desmoplastic reaction",
+        "fibroblastic proliferation",
+        "dense fibrous tissue",
+        "tumor-associated stroma",
+        "stromal reaction to cancer"
+    ],
+    "Colorectal adenocarcinoma epithelium": [
+        "malignant glandular cells",
+        "irregular gland formation",
+        "cancerous epithelium",
+        "nuclear atypia",
+        "abnormal gland architecture",
+        "invasive adenocarcinoma"
+    ]
+}

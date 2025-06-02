@@ -1,0 +1,24 @@
+{
+    "Normal": [
+        "non-tumor",
+        "benign tissue",
+        "non-cancerous tissue",
+        "regular cell structure",
+        "uniformity",
+        "well-defined edges",
+        "minimal variation in size",
+        "non-cancerous",
+        "no abnormal growth"
+    ],
+    "Abnormal": [
+        "tumor tissue",
+        "malignant epithelial tissue",
+        "cancerous tissue",
+        "abnormal cell growth",
+        "cancerous",
+        "irregular shapes",
+        "poorly defined edges",
+        "invade surrounding tissues",
+        "spread to other parts of the body"
+    ]
+}

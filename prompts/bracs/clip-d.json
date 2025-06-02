@@ -1,0 +1,24 @@
+{
+    "Non invasive": [
+        "non-tumor",
+        "benign tissue",
+        "non-cancerous tissue",
+        "regular cellular structure",
+        "uniform cell shapes",
+        "well-defined edges",
+        "no abnormal growth",
+        "healthy epithelial tissue",
+        "localized ductal architecture"
+    ],
+    "Invasive": [
+        "invasive carcinoma",
+        "malignant tissue",
+        "cancerous growth",
+        "irregular cellular patterns",
+        "disrupted tissue architecture",
+        "tumorous invasion",
+        "advanced malignancy",
+        "spreading carcinoma",
+        "aggressive cancer cells"
+    ]
+}
