@@ -1,0 +1,32 @@
+model_size: conch
+
+batch_size: 8
+dataset: breakhis
+data_path: /g/data/nk53/mr3328/bracs/
+
+alpha: 0.5
+n_samples: 100
+n_run: 50
+patch_n: 100
+
+methods:
+  - clip:
+      name: clip
+      enabled: True
+  - clip-e:
+      name: clip-e
+      enabled: True
+  - clip-d:
+      name: clip-d
+      enabled: True
+  - waffle:
+      name: waffle
+      enabled: True
+  - cupl:
+      name: cupl
+      enabled: True
+  - ours:
+      name: ours
+      enabled: True
+      image_scale: 4.0
+      text_scale: 2.0

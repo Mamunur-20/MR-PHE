@@ -1,0 +1,20 @@
+model_size: conch_ViT-B-16
+
+batch_size: 8
+dataset: crc
+data_path: /g/data/nk53/mr3328/wca/conch/CONCH/
+
+
+alpha: 0.6
+n_samples: 50
+n_run: 1
+patch_n: 10
+
+methods:
+
+  - ours:
+      name: ours
+      enabled: True
+      image_scale: 4.0
+      text_scale: 2.0
+      prompts_file: "prompts/crc/wca.json"

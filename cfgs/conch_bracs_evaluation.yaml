@@ -1,0 +1,38 @@
+model_size: conch_ViT-B-16
+
+batch_size: 32
+dataset: bracs
+data_path: /g/data/nk53/mr3328/bracs/binary/
+
+alpha: 0.5
+n_samples: 100
+n_run: 1
+patch_n: 30
+
+alpha: 0.5
+n_samples: 100
+n_run: 20
+patch_n: 50
+
+
+# Patch extraction parameters
+patch_scales: [0.5, 0.75, 1.0]          # Scales for multi-resolution patches
+n_patches_per_scale: [10, 10, 10]        # Number of patches per scale
+
+# Hybrid weighting parameters
+hybrid_weight: 0.8                    # Weight for combining patch and global embeddings
+sample_patches: true                 # Whether to sample a subset of patches
+num_patches_to_sample: 50             # Number of patches to sample if sampling is enabled
+
+# Class names for confusion matrix
+class_names: ["Invasive", "Non invasive"]  # Replace with your actual class names
+
+# Optional: Model path (if different from default)
+# model_path: "/path/to/your/pretrained/model.bin"  # Uncomment and set if needed
+
+methods:
+
+  - cupl:
+      name: cupl
+      enabled: True
+      prompts_file: "/g/data/nk53/mr3328/wca/conch/CONCH/prompts/bracs/ours_filtered.json"

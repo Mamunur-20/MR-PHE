@@ -1,0 +1,59 @@
+model_size: conch_ViT-B-16
+
+batch_size: 32
+dataset: wsss
+data_path: /g/data/nk53/mr3328/wca/
+
+alpha: 0.5
+n_samples: 100
+n_run: 1
+patch_n: 20
+
+# Patch extraction parameters
+patch_scales: [0.25, 0.50, .75]          # Scales for multi-resolution patches
+n_patches_per_scale: [5, 5, 5]        # Number of patches per scale
+
+# Hybrid weighting parameters
+hybrid_weight: 0.5                    # Weight for combining patch and global embeddings
+sample_patches: true                 # Whether to sample a subset of patches
+num_patches_to_sample: 20               # Number of patches to sample if sampling is enabled
+
+# Class names for confusion matrix
+class_names: ["Normal", "Stroma", "Tumor"]  # Replace with your actual class names
+
+# Optional: Model path (if different from default)
+# model_path: "/path/to/your/pretrained/model.bin"  # Uncomment and set if needed
+
+methods:
+  - clip:
+      name: clip
+      enabled: True
+  - clip-e:
+      name: clip-e
+      enabled: True
+  - clip-d:
+      name: clip-d
+      enabled: True
+  - waffle:
+      name: waffle
+      enabled: True
+  - cupl:
+      name: cupl
+      enabled: True
+      prompts_file: "prompts/wsss/cupl.json"
+  - ours:
+      name: ours
+      enabled: True
+      image_scale: 4.0
+      text_scale: 2.0
+      prompts_file: "prompts/wsss/ours.json"
+      
+//  - ours_filtered:
+//      name: ours_filtered
+//      enabled: True
+//      image_scale: 4.0
+//      text_scale: 2.0
+//      prompts_file: "prompts/wsss/filtered/ours_filtered.json"
+      
+
+
