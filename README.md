@@ -82,5 +82,16 @@ Ensure your datasets are set up and the `.env` file is configured before running
 ### 1. Generate Prompts
 This script generates textual prompts based on class names, synonyms, and clinical significance.
 
+python 01_prompt_generation.py --output_folder prompts/wsss/ --filename ours_generated.json
+
+text
+(Based on `01_wsss_prompt_generation.py`. Adapt `output_folder` and `filename` as needed for different datasets/methods.)
+
+### 2. Evaluate and Filter Prompts
+This script evaluates the generated prompts against a dataset and filters the top-k performing ones.
+python src/main_scripts/prompt_evaluation.py --config configs/conch_wsss_evaluation.yaml
+
+text
+(Based on `02_wsss_prompt_evaluation.py`. The config file specifies dataset, model, and prompt files.)
 
 
