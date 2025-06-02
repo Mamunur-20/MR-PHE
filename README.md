@@ -94,4 +94,11 @@ python src/main_scripts/prompt_evaluation.py --config configs/conch_wsss_evaluat
 text
 (Based on `02_wsss_prompt_evaluation.py`. The config file specifies dataset, model, and prompt files.)
 
+## 3. Run MR-PHE Classification (Our Method)
 
+This is the main script to run the MR-PHE (Multi-Resolution Prompt-guided Hybrid Embedding) classification pipeline as described in the paper. It utilizes the `MRPHE_helper.py` module for various functions like loading precomputed features and generating text embeddings.
+
+The script will perform zero-shot classification using the CONCH model, leveraging the multi-resolution patch extraction, hybrid embedding strategy, and selected prompts.
+
+**Command:**
+python MRPHE_main.py --config configs/your_dataset.yaml --seed <your_seed_value> --device <cuda_or_cpu>
